@@ -24,3 +24,8 @@ The following table is used to help people in finding the best tourist places an
 | Mysore | Mysore Palace | 3 hr |
 | Delhi | Red Fort | 3 hr |
 | Bangalore | Karnataka Assembly | 1 hr |
+
+***
+### Pithy Quotes
+>Have no fear of perfection - you'll never reach it.- *Salvador Dali* 
+>Discipline leads to habits, habits leads to consistency, consistency leads to success. *A.P.J.Kalam* 
