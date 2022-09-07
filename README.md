@@ -30,3 +30,13 @@ The following table is used to help people in finding the best tourist places an
 > "Have no fear of perfection - you'll never reach it."- *Salvador Dali*
 
 > "Discipline leads to habits, habits leads to consistency, consistency leads to success."-*A.P.J.Kalam* 
+
+***
+### Code Fencing
+> Get Rid of White Flash when iframe Loads?
+[Question](https://css-tricks.com/snippets/html/get-rid-of-white-flash-when-iframe-loads/)
+
+***
+<iframe style="visibility:hidden;" onload="this.style.visibility = 'visible';" src="../examples/inlineframes1.html" > </iframe>
+
+[Answer](https://css-tricks.com/snippets/html/get-rid-of-white-flash-when-iframe-loads/)
