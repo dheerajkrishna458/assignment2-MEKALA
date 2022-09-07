@@ -15,3 +15,12 @@ The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern 
         * hussain sagar
         * nehru zoo park
 [AboutMe.md](AboutMe.md)
+***
+### Tables
+The following table is used to help people in finding the best tourist places and amount of time we can spend on visiting the place.
+| City | Tourist Place | Time Taken To Visit |
+|------|---------------|---------------------|
+| Hyderabad | Charminar | 2 hr|
+| Mysore | Mysore Palace | 3 hr |
+| Delhi | Red Fort | 3 hr |
+| Bangalore | Karnataka Assembly | 1 hr |
