@@ -28,4 +28,5 @@ The following table is used to help people in finding the best tourist places an
 ***
 ### Pithy Quotes
 > "Have no fear of perfection - you'll never reach it."- *Salvador Dali*
+
     "Discipline leads to habits, habits leads to consistency, consistency leads to success."-*A.P.J.Kalam* 
