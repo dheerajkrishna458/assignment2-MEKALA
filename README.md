@@ -5,8 +5,12 @@ The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern 
 ***
 #### How To Reach The Museum
     1.**Begumpet airport** is the nearest airport to salarjung museum.
-    2. After departing the flight, downloasd the ola mobile app.
+    2. After departing the flight, download the ola mobile app.
     3. Book an 3-wheeler auto ride from airport to museum.
     4. Try to reach the museum before 2 p.m.
     5. It will take minimum of 2 hours to visit the museum.
+    - charminar
+    - birla mandir
+    - hussain sagar
+    - nehru zoo park
  
