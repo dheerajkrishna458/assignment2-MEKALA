@@ -37,6 +37,8 @@ The following table is used to help people in finding the best tourist places an
 [Question](https://css-tricks.com/snippets/html/get-rid-of-white-flash-when-iframe-loads/)
 
 ***
+```
 <iframe style="visibility:hidden;" onload="this.style.visibility = 'visible';" src="../examples/inlineframes1.html" > </iframe>
+```
 
 [Code Snippet](https://css-tricks.com/snippets/html/get-rid-of-white-flash-when-iframe-loads/)
