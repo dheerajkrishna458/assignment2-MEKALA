@@ -10,8 +10,8 @@ The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern 
     4. Try to reach the museum before 2 p.m.
     5. It will take minimum of 2 hours to visit the museum.
     6. Near by visiting places
-        - charminar
-        - birla mandir
-        - hussain sagar
-        - nehru zoo park
+        * charminar
+        * birla mandir
+        * hussain sagar
+        * nehru zoo park
  
